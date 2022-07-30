@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Deploy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[amazing link](https://p1aer-chess.netlify.app/)
 
 ## Available Scripts
 
